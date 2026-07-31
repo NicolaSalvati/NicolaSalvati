@@ -1,6 +1,6 @@
 # Nicola Salvati
 
-Studente di Informatica presso l'**Università degli Studi di Napoli "Parthenope"**, con un forte interesse per lo sviluppo mobile nell'ecosistema Apple e per l'intelligenza artificiale.
+Studente di Informatica presso l'**Università degli Studi di Napoli "Parthenope"**, con un forte interesse per lo sviluppo mobile nell'ecosistema Ios/Android e per l'intelligenza artificiale e CyberSecurity
 
 Mi occupo di progettazione e sviluppo software a tutto tondo: dalle applicazioni native per iOS e watchOS, a servizi backend, fino a soluzioni basate su intelligenza artificiale.
 
