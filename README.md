@@ -17,7 +17,7 @@ Mi occupo di progettazione e sviluppo software a tutto tondo: dalle applicazioni
 - **Programmazione di sistema**: C, C++
 - **Intelligenza artificiale**: progettazione e sviluppo di soluzioni basate su AI
 - **Linguaggi web**: JavaScript
-- **CyberSecurity**: sicurezza dei personali e la sicurezza amministrativa dei server
+- **CyberSecurity**: sicurezza dei dati personali e protezione dei server dalle vulnerabilità
 
 ## 🚀 Progetto in evidenza
 
